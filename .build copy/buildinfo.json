@@ -1,0 +1,59 @@
+{
+  "builtBy": "meteor/10",
+  "sliceDependencies": {
+    "browser.json": {
+      "files": {
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/package.js": "7d243933ecc3686ec1d3333d66577b3b59eb7f52",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/css/bootstrap.css": "36a443a94359e0603a73b8353d2a3fc9c87e1ea5",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-override.css": "4e1b27aa58cab7b2c9fd70b23bc8a73dd8baccd0",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/css/jquery-ui-1.10.2.custom.css": "466c498c7aa8b57c83c3f770db908058593318b3",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/css/font-awesome.css": "f503f926f3664ec2867325adb9346adc534bc7bd",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/css/layout.css": "f6337cba9ba2b62980ead345c0e827e8d28cc5af",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/css/elements.css": "d694921ce2baa555bdcb299873ef4ddba16b5002",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/css/icons.css": "9944f068daa0b49414fffbf28cecf09cf8b5f363",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/js/bootstrap.js": "3da50e5a863c4382d74d829924df89fbb7bc396d",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/js/jquery-ui-1.10.2.custom.min.js": "95833b680ee1694050c13fcced43e4dcdb723736",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/js/jquery.knob.js": "14f8281b3846c3059381fe48a978707c1bf2ae65",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/js/jquery.flot.js": "7be0e4e318196c5a33d560ce1d7507b3c59d746b",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/js/jquery.flot.stack.js": "b61c9d162e3484de8f4c572782e3a2b7a192d411",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/js/jquery.flot.resize.js": "4c9d3db64a92501b844d38dcd1c86ba9a2b69a82",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/js/theme.js": "e62732ea1062c9cdf1465c82d08820dc745edea6",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.eot": "f3a9a3b609133c3d21d6b42abbf7f43bd111df72",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.ttf": "aafafdc09404c4aa4447d7e898a2183def9cc1b1",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg": "3ef91859cbec165ac97df6957b176f69e8d6a04d",
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.woff": "22037a3455914e5662fa51a596677bdb329e2c5c"
+      },
+      "directories": []
+    },
+    "os.json": {
+      "files": {
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/package.js": "7d243933ecc3686ec1d3333d66577b3b59eb7f52"
+      },
+      "directories": []
+    },
+    "tests.browser.json": {
+      "files": {
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/package.js": "7d243933ecc3686ec1d3333d66577b3b59eb7f52"
+      },
+      "directories": []
+    },
+    "tests.os.json": {
+      "files": {
+        "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/package.js": "7d243933ecc3686ec1d3333d66577b3b59eb7f52"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3/package.js": "7d243933ecc3686ec1d3333d66577b3b59eb7f52"
+    },
+    "directories": []
+  },
+  "pluginProviderPackages": {
+    "bootstrap-3": "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3",
+    "meteor": "/Users/dancaws/.meteor/packages/meteor/60a2f30bca",
+    "jquery": "/Users/dancaws/.meteor/packages/jquery/2ff5a27117"
+  },
+  "source": "/Users/dancaws/GIT SYNCS/credits-ui/packages/bootstrap-3"
+}
