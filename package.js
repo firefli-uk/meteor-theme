@@ -30,7 +30,18 @@ Package.on_use(function (api) {
   api.add_files(path.join(asset_path, 'js', 'jquery.flot.stack.js'), 'client');
   api.add_files(path.join(asset_path, 'js', 'jquery.flot.resize.js'), 'client');
   api.add_files(path.join(asset_path, 'js', 'theme.js'), 'client');
-  
+    
+    
+  api.add_files(path.join(asset_path, 'jshome', 'jquery.isotope.js'), 'client');
+  api.add_files(path.join(asset_path, 'jshome', 'modernizr.min.js'), 'client');
+  api.add_files(path.join(asset_path, 'jshome', 'masonry.js'), 'client');
+  api.add_files(path.join(asset_path, 'jshome', 'jquery.fitvids.min.js'), 'client');
+  api.add_files(path.join(asset_path, 'jshome', 'jquery.superslides.min.js'), 'client');
+  api.add_files(path.join(asset_path, 'jshome', 'jquery.carouFredSel-6.2.1-packed.js'), 'client');
+  api.add_files(path.join(asset_path, 'jshome', 'jquery.countTo.js'), 'client');
+  api.add_files(path.join(asset_path, 'jshome', 'jquery.magnific-popup.min.js'), 'client');
+  api.add_files(path.join(asset_path, 'jshome', 'jquery.mb.YTPlayer.js'), 'client');
+ 
   // fonts
   api.add_files(path.join(asset_path, 'font', 'glyphicons-halflings-regular.eot'), 'client');
   api.add_files(path.join(asset_path, 'font', 'glyphicons-halflings-regular.ttf'), 'client');
