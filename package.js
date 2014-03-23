@@ -41,7 +41,6 @@ Package.on_use(function (api) {
   api.add_files(path.join(asset_path, 'jshome', 'jquery.countTo.js'), 'client');
   api.add_files(path.join(asset_path, 'jshome', 'jquery.magnific-popup.min.js'), 'client');
   api.add_files(path.join(asset_path, 'jshome', 'jquery.mb.YTPlayer.js'), 'client');
-  api.add_files(path.join(asset_path, 'jshome', 'file'), 'client');
  
   // fonts
   api.add_files(path.join(asset_path, 'font', 'glyphicons-halflings-regular.eot'), 'client');
