@@ -36,7 +36,7 @@ Package.on_use(function (api) {
     
   api.add_files(path.join(asset_path, 'jsashley', 'jquery.flexslider.js'), 'client');
   api.add_files(path.join(asset_path, 'jsashley', 'respond.min.js'), 'client');
-  api.add_files(path.join(asset_path, 'jsashley', 'jquery.isotope.min.js'), 'client');
+  api.add_files(path.join(asset_path, 'jsashley', 'jquery.isotope.js'), 'client');
 
   api.add_files(path.join(asset_path, 'jsashley', 'jquery.easing.1.3.js'), 'client');
   api.add_files(path.join(asset_path, 'jsashley', 'jquery.scrollTo-1.4.3.1-min.js'), 'client');
