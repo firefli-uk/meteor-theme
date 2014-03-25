@@ -171,6 +171,7 @@ textarea::-webkit-input-placeholder {
 .input-group .uneditable-input, 
 .input-group .uneditable-input {
 	border: 1px solid #d6e2eb;
+	margin-left: -1px;
 }
 .input-group .input-group-addon {
 	background-color: #f2f5f9;
