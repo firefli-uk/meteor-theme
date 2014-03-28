@@ -43,6 +43,7 @@ api.add_files(path.join(asset_path, 'img', 'logo.png'),"client");
   api.add_files(path.join(asset_path, 'img', 'btn-attach.png'),"client");
   api.add_files(path.join(asset_path, 'img', 'ico-phone.png'),"client");
   api.add_files(path.join(asset_path, 'img', 'ico-mail.png'),"client");
+  api.add_files(path.join(asset_path, 'img', 'table-img.png'),"client");
   api.add_files(path.join(asset_path, 'img', 'ico-gallery-edit.png'),"client");
   api.add_files(path.join(asset_path, 'img', 'ico-gallery-trash.png'),"client");
 
